@@ -1,0 +1,32 @@
+
+body{
+	background: white;
+	color: black;
+	align-content: center;
+}
+p{
+	background: white;
+	color: black;
+	text-align: center;
+}
+ul{
+	align-content:left;
+	background:white;
+	max-width: 25%;
+	color: black;
+}
+header{
+	
+	text-align: center;
+}
+.ATM{
+	max-width: 70%;
+}
+h1{
+	color:black;
+	text-align:center;
+}
+h2{
+	color:black;
+	text-align: center;	
+}
