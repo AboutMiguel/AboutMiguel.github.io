@@ -3,7 +3,8 @@ body{
 	background: white;
 	color: black;
 	align-content: center;
-	max-width: 50%
+	left:200px;
+	right:200px;
 }
 p{
 	background: white;
