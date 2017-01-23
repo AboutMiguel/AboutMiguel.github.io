@@ -3,6 +3,7 @@ body{
 	background: white;
 	color: black;
 	align-content: center;
+	max-width: 50%
 }
 p{
 	background: white;
@@ -18,9 +19,6 @@ ul{
 header{
 	
 	text-align: center;
-}
-.ATM{
-	max-width: 70%;
 }
 h1{
 	color:black;
