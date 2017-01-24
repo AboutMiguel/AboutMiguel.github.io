@@ -3,8 +3,7 @@ body{
 	background: white;
 	color: black;
 	text-align: center;
-	left:200px;
-	right:200px;
+	
 }
 p{
 	background: white;
@@ -21,7 +20,7 @@ header{
 	
 	text-align: center;
 	background: black;
-	color:grey
+	color:white;
 }
 h1{
 	color:black;
