@@ -2,7 +2,7 @@
 body{
 	background: grey;
 	color: white;
-	text-align: center;
+	text-align:left;
 	left: 200px;
 	right: 200px;
 	
@@ -10,7 +10,7 @@ body{
 p{
 	background: grey;
 	color: white;
-	text-align: center;
+	text-align: left;
 }
 ul{
 	align-content:left;
@@ -20,19 +20,23 @@ ul{
 }
 header{
 	
-	text-align: center;
+	text-align: left;
 	background: black;
 	color:white;
 }
 h1{
 	color:white;
-	text-align:center;
+	text-align:left;
 }
 h2{
 	color:white;
-	text-align: center;	
+	text-align: left;	
 }
 .Future{
-	text-align:center;
-	align-content:center;
+	text-align:left;
+	align-content:left;
+}
+a{
+	background:black;
+	color:white;
 }
