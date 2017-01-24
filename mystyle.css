@@ -8,20 +8,20 @@ body{
 	
 }
 p{
-	background: grey;
+	background: rgb(61, 153, 244);
 	color: white;
 	text-align: left;
 }
 ul{
 	align-content:left;
-	background:white;
+	background:rgb(61, 153, 244);
 	max-width: 25%;
 	color: black;
 }
 header{
 	
 	text-align: left;
-	background: black;
+	background:rgb(61, 153, 244);
 	color:white;
 }
 h1{
@@ -37,6 +37,6 @@ h2{
 	align-content:left;
 }
 a{
-	background:black;
+	background:rgb(61, 153, 244);
 	color:white;
 }
