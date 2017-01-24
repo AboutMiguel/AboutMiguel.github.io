@@ -5,36 +5,42 @@ body{
 	text-align:left;
 	left: 200px;
 	right: 200px;
-	padding-left:2000px
+	padding-left:2000px;
+	padding-right:2000px;
 }
 p{
 	background: rgb(61, 153, 244);
 	color: white;
 	text-align: left;
+	padding-left: 2000px;
+	padding-right: 2000px;
 }
 ul{
 	align-content:left;
 	background:rgb(61, 153, 244);
 	max-width: 25%;
 	color: black;
+	padding-right:2000px;
+	padding-left:2000px;
 }
 header{
 	
 	text-align: left;
 	background:rgb(61, 153, 244);
 	color:white;
+	padding-left:2000px;
+	padding-right:2000px;
 }
 h1{
 	color:white;
-	text-align:left;
+	text-align:center;
 }
 h2{
 	color:white;
-	text-align: left;	
+	text-align: center;	
 }
 .Future{
 	text-align:left;
-	align-content:left;
 }
 a{
 	background:rgb(61, 153, 244);
