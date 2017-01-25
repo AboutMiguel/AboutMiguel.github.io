@@ -3,7 +3,7 @@ body{
 	color: rgba(0,0,0,.8);
 	text-align:left;
     padding-right:125px;
-    padding-left:200px;
+    padding-left:400px;
     max-width:800px;
      font-family: 'Aldrich';
 }
@@ -11,7 +11,7 @@ p{
 	background:white;
 	color: rgba(0,0,0,.8);
 	text-align: center;
-	padding-left:200px;
+	padding-left:400px;
 	padding-right:125px;
     max-width: 800px;
      font-family: 'Aldrich';
@@ -21,7 +21,7 @@ ul{
 	background:white;
     color:rgba(0,0,0,.8);
 	padding-right:125px;
-	padding-left:200px;
+	padding-left:400px;
     max-width:800px;
      font-family: 'Aldrich';
 }
@@ -29,7 +29,7 @@ header{
 	
 	text-align: center;
 	color:white;
-	padding-left:200px;
+	padding-left:400px;
 	padding-right:125px;
     max-width:800px;
     font-family: 'Aldrich';
@@ -44,13 +44,13 @@ h1{
 h2{
 	color:rgba(0,0,0,.8);
 	text-align: center;
-    padding-left:200px;
+    padding-left:400px;
 	padding-right:125px;
     font-family: 'Aldrich';
 }
 h3{
     text-align:center;
-    padding-left:200px;
+    padding-left:400px;
 	padding-right:125px;
     color:rgba(0,0,0,.8);
      font-family: 'Aldrich';
@@ -63,12 +63,12 @@ h3{
 a{
 	color:rgba(0,0,0,.8);
 	text-align: left;
-    padding-left:200px;
+    padding-left:400px;
 	padding-right:125px;
      font-family: 'Aldrich';
 }
 img{
-    padding-left:200px;
+    padding-left:400px;
 	padding-right:125px;
 }
 .links{
@@ -79,6 +79,6 @@ padding-right:125px;
 text-align:center;
 }
 .linktoall7thgradework{
-    padding-left:200px;
+    padding-left:400px;
     padding-right:125px;
 }
