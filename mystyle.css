@@ -3,6 +3,7 @@ body{
 	color: rgba(0,0,0,.8);
 	text-align:left;
      font-family: 'Aldrich';
+	padding:20px;
 }
 p{
 	background:white;
@@ -51,7 +52,7 @@ a{
 }
 img{
    text-align: center;
-align-content:center;
+==
 }
 .links{
 font-family: 'Aldrich';
@@ -65,9 +66,4 @@ text-align:center;
 li {
       display: inline;
       padding: 0px 10px 0px 10px;
-    }
-    article {
-      max-width: 500px;
-      padding: 20px;
-      margin: 0 auto;
-    }
+=
