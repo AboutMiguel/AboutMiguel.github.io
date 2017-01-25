@@ -3,30 +3,30 @@ body{
 	background: rgb(61, 153, 244);
 	color: white;
 	text-align:left;
-	padding-left:50000px;
-	padding-right:50000px;
+	padding-left:5in;
+	padding-right:5in;
 }
 p{
 	background: rgb(61, 153, 244);
 	color: white;
 	text-align: left;
-	padding-left: 50000px;
-	padding-right: 50000px;
+	padding-left:5in;
+	padding-right:5in;
 }
 ul{
 	align-content:left;
 	background:rgb(61, 153, 244);
 	color: black;
-	padding-right:50000px;
-	padding-left:50000px;
+	padding-right:2in;
+	padding-left:2in;
 }
 header{
 	
 	text-align: left;
 	background:rgb(61, 153, 244);
 	color:white;
-	padding-left:50000px;
-	padding-right:50000px;
+	padding-left:5in;
+	padding-right:5in;
 }
 h1{
 	color:white;
