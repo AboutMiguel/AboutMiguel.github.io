@@ -23,7 +23,7 @@ ul{
 header{
 	
 	text-align: left;
-	background:rgb(61, 153, 244);
+	background:black;
 	color:white;
 	padding-left:5in;
 	padding-right:5in;
@@ -40,8 +40,9 @@ h2{
 	text-align:left;
 }
 a{
-	background:rgb(61, 153, 244);
+	background:black;
 	color:white;
+	text-align: center;
 }
 img{
 	align-content:center
