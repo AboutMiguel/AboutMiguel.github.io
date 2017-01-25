@@ -3,31 +3,31 @@ body{
 	background: rgb(61, 153, 244);
 	color: white;
 	text-align:left;
-	padding-left:15px;
-	padding-right:15px;
+	padding-left:30px;
+	padding-right:30px;
 }
 p{
 	background: rgb(61, 153, 244);
 	color: white;
 	text-align: left;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 ul{
 	align-content:left;
 	background:rgb(61, 153, 244);
 	max-width: 25%;
 	color: black;
-	padding-right:15px;
-	padding-left:15px;
+	padding-right:30px;
+	padding-left:30px;
 }
 header{
 	
 	text-align: left;
 	background:rgb(61, 153, 244);
 	color:white;
-	padding-left:15px;
-	padding-right:15px;
+	padding-left:30px;
+	padding-right:30px;
 }
 h1{
 	color:white;
