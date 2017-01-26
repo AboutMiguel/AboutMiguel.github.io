@@ -1,66 +1,76 @@
 body{
-	background: white;
-	color: rgba(0,0,0,.8);
+	background: rgb(0, 31, 188);
+	color: white;
 	text-align:left;
      font-family: 'Aldrich';
+	 padding-left:300px;
+	 padding-right:300px;
 
 }
 p{
-	background:white;
-	color: rgba(0,0,0,.8);
+	background:rgb(0, 31, 188);
+	color: white;
 	text-align: center;
         font-family: 'Aldrich';
+	padding-left:300px;
+	padding-right:300px;
 
 }
 ul{
 	align-content:left;
-	background:white;
-    color:rgba(0,0,0,.8);
+	background:rgb(0, 31, 188);
+    color:white;
     font-family: 'Aldrich';
-	
+	padding-right:300px;
+	padding-left:300px;
 }
 header{
 	
 	text-align: center;
 	color:white;
         font-family: 'Aldrich';
-   
+   background:rgb(0, 31, 188);
 }
 h1{
-	color:rgba(0,0,0,.8);
+	color:white;
 	text-align:center;
      font-family: 'Aldrich';
 
 }
 h2{
-	color:rgba(0,0,0,.8);
+	color:white;
 	text-align: center;
         font-family: 'Aldrich';
 }
 h3{
     text-align:center;
-    color:rgba(0,0,0,.8);
+    color:white;
     font-family: 'Aldrich';
 }
 
 .Future{
 	text-align:center;
      font-family: 'Aldrich';
+	 padding-right:300px;
+	 padding-left:300px;
 	
 }
 a{
-	color:rgba(0,0,0,.8);
+	color:white;
 	text-align: left;
         font-family: 'Aldrich';
 }
 .links{
 font-family: 'Aldrich';
-color: rgba(0, 0, 0, 0.5);
+color: white;
 text-align:center;
+background:rgb(0, 31, 188);
 }
 .linktoall7thgradework{
     padding-left:200px;
     padding-right:125px;
 
 }
-
+.header{
+	background:rgb(0, 31, 188);
+}
