@@ -3,21 +3,21 @@ body{
 	color: rgba(0,0,0,.8);
 	text-align:left;
      font-family: 'Aldrich';
-	max-width:400px;
+
 }
 p{
 	background:white;
 	color: rgba(0,0,0,.8);
 	text-align: center;
         font-family: 'Aldrich';
-	max-width:400px;
+
 }
 ul{
 	align-content:left;
 	background:white;
     color:rgba(0,0,0,.8);
     font-family: 'Aldrich';
-	max-width:400px;
+	
 }
 header{
 	
@@ -46,7 +46,7 @@ h3{
 .Future{
 	text-align:center;
      font-family: 'Aldrich';
-	max-width:400px;
+	
 }
 a{
 	color:rgba(0,0,0,.8);
@@ -61,9 +61,9 @@ text-align:center;
 .linktoall7thgradework{
     padding-left:200px;
     padding-right:125px;
-	max-width:400px;
+
 }
 li {
       display: inline;
-      max-width:400px
+  
 }
