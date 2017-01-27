@@ -8,7 +8,7 @@ body{
 
 }
 p{
-	background:rgb(106, 162, 252);
+	background:white;
 	color:black;
 	text-align: center;
         font-family: 'Aldrich';
@@ -18,7 +18,7 @@ p{
 }
 ul{
 	align-content:left;
-	background:rgb(106, 162, 252);
+	background:white;
     color:black;
     font-family: 'Aldrich';
 	padding-right:300px;
@@ -29,7 +29,7 @@ header{
 	text-align: center;
 	color:black;
         font-family: 'Aldrich';
-   background:rgb(106, 162, 252);
+   background:white;
 }
 h1{
 	color:black;
