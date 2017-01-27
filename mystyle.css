@@ -1,5 +1,5 @@
 body{
-	background: rgba(0, 31, 188, 20);
+	background: rgb(106, 162, 252);
 	color: white;
 	text-align:left;
      font-family: 'Aldrich';
@@ -8,7 +8,7 @@ body{
 
 }
 p{
-	background:rgba(0, 31, 188,20);
+	background:rgb(106, 162, 252);
 	color: white;
 	text-align: center;
         font-family: 'Aldrich';
@@ -18,7 +18,7 @@ p{
 }
 ul{
 	align-content:left;
-	background:rgba(0, 31, 188,20);
+	background:rgb(106, 162, 252);
     color:white;
     font-family: 'Aldrich';
 	padding-right:300px;
@@ -29,7 +29,7 @@ header{
 	text-align: center;
 	color:white;
         font-family: 'Aldrich';
-   background:rgba(0, 31, 188, 20);
+   background:rgb(106, 162, 252);
 }
 h1{
 	color:white;
@@ -64,7 +64,7 @@ a{
 font-family: 'Aldrich';
 color: white;
 text-align:center;
-background:rgba(0, 31, 188,20);
+background:rgb(106, 162, 252);
 }
 .linktoall7thgradework{
     padding-left:200px;
